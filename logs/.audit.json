@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/adminlinux/juice-shop_17.0.0/logs/.audit.json",
+    "files": [
+        {
+            "date": 1735388333046,
+            "name": "/home/adminlinux/juice-shop_17.0.0/logs/access.log.2024-12-28",
+            "hash": "7caa8b2ba91456acfe1ce832adbacc4c"
+        }
+    ]
+}
